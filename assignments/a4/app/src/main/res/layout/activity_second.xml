@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cs349.uwaterloo.ca.a4.SecondActivity">
+
+    <LinearLayout
+        android:id="@+id/setting"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5">
+
+            <TextView
+                android:id="@+id/T3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="NUMBER OF BUTTON(1-6)"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+            <SeekBar
+                android:id="@+id/S1"
+                style="@style/Widget.AppCompat.SeekBar.Discrete"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:max="5"
+                android:progress="3" />
+
+        </RelativeLayout>
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2">
+
+            <RadioButton
+                android:id="@+id/R1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.2"
+                android:text="EASY" />
+
+            <RadioButton
+                android:id="@+id/R2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.2"
+                android:text="NORMAL" />
+
+            <RadioButton
+                android:id="@+id/R3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.2"
+                android:text="HARD" />
+        </RadioGroup>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
