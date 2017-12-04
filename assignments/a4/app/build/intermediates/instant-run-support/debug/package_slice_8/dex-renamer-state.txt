@@ -1,4 +1,0 @@
-#Mon Dec 04 02:41:58 EST 2017
-base.0=C\:\\Users\\tommy\\Desktop\\cs349-code-master-a69f12c2f9e474ce2c659778ae6a2126342a181e\\android\\MVC2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27
-renamed.0=classes.dex
-file.0=C\:\\Users\\tommy\\Desktop\\cs349-code-master-a69f12c2f9e474ce2c659778ae6a2126342a181e\\android\\MVC2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27\\classes.dex
