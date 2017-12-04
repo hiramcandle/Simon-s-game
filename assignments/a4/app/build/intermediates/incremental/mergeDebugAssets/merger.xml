@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\tommy\Desktop\cs349-code-master-a69f12c2f9e474ce2c659778ae6a2126342a181e\android\MVC2\app\src\main\assets"/><source path="C:\Users\tommy\Desktop\cs349-code-master-a69f12c2f9e474ce2c659778ae6a2126342a181e\android\MVC2\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\tommy\Desktop\cs349-code-master-a69f12c2f9e474ce2c659778ae6a2126342a181e\android\MVC2\app\src\debug\assets"/></dataSet></merger>

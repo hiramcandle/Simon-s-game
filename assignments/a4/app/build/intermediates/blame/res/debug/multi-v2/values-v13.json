@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/yuyanghuang/Desktop/a4/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/yuyanghuang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/17a25c1e3e315895d631b41b4cee0836/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/yuyanghuang/Desktop/a4/C:\\Users\\tommy\\Desktop\\cs349-code-master-a69f12c2f9e474ce2c659778ae6a2126342a181e\\android\\MVC2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/yuyanghuang/Desktop/a4/C:\\Users\\tommy\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a3b942883d4a6f88def414b37d67d087\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}
